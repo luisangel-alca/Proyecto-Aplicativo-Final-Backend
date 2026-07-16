@@ -48,6 +48,7 @@ proyecto-facturacion/
 |-------------|------------|
 | jvelasquez  | 123456     |
 | aaraujo     | 123456     |
+| achoque     | 123456     |
 | lalvarez    | 123456     |
 
 ## Requerimientos funcionales cubiertos
