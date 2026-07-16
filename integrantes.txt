@@ -1,0 +1,7 @@
+INTEGRANTES DEL EQUIPO - PROYECTO APLICATIVO FINAL
+Sistema de Facturación y Control de Stocks
+
+1. Velásquez Quille, Juaquín David          - Programador
+2. Araujo Chavez, Aldair Alexander          - Programador
+3. Choque Vargas, Aaron Stef                - Documentación y Pruebas
+4. Alvarez Calloapaza, Luis Angel           - Jefe de Proyecto
